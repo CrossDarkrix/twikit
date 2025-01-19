@@ -1,5 +1,3 @@
 httpx[socks]
 filetype
-beautifulsoup4
 pyotp
-lxml
